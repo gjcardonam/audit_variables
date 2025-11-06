@@ -6,7 +6,7 @@
       "type": "debugpy",
       "request": "launch",
       "program": "${workspaceFolder}/templating_auditor.py",
-      "args": ["-c", "configs/config.json"],
+      "args": ["-c", "config.json"],
       "console": "integratedTerminal"
     }
   ]
